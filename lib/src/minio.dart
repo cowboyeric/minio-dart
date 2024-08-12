@@ -14,8 +14,8 @@ import 'package:minio/src/utils.dart';
 import 'package:xml/xml.dart' as xml;
 import 'package:xml/xml.dart' show XmlElement;
 
-import '../models.dart';
-import 'minio_helpers.dart';
+// import '../models.dart';
+// import 'minio_helpers.dart';
 
 class Minio {
   /// Initializes a new client object.
